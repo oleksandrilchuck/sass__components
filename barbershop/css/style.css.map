@@ -1,0 +1,24 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../scss/style.scss",
+        "../scss/_fonts.scss",
+        "../scss/_vars.scss",
+        "../scss/_mixins.scss",
+        "../scss/_vendor.scss",
+        "../scss/_settings.scss",
+        "../scss/_reset.scss",
+        "../scss/components/_header.scss",
+        "../scss/components/_hero.scss",
+        "../scss/components/_video.scss",
+        "../scss/components/_team.scss",
+        "../scss/components/_testimonials.scss",
+        "../scss/components/_features.scss",
+        "../scss/components/_prise.scss",
+        "../scss/components/_contacts.scss",
+        "../scss/components/_footer.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
